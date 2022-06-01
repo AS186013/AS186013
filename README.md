@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abishek
-- 👀 I’m woeking for NCR as a Software Intern for Digital Banking
+- 👀 I’m working for NCR as a Software Intern for Digital Banking
 - 📫 You can reach me out via as186013@ncr.com
 
 <!---
